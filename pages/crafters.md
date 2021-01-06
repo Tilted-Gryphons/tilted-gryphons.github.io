@@ -58,8 +58,8 @@ _Alister, Badasz, Healthpack, Kidun, Pellor(Becka), Phey, Taicelynn_
 **Riding:** Taicelynn, Badasz, Phey, Alister, Healthpack <br />
 **Fire Power:** Phey <br />
 **Frost Power:** Healthpack, Kidun <br />
-**Healing Power:** <br />
-**Shadow Power:** <br />
+**Healing Power:** Shadecloak <br />
+**Shadow Power:** Phey <br />
 **Threat:** Healthpack
 
 ### Boots
@@ -75,43 +75,43 @@ _Alister, Badasz, Healthpack, Kidun, Pellor(Becka), Phey, Taicelynn_
 **Dodge:** Phey
 
 ## Alchemists
-_Calistto, Hanzho, Kidun, Litoses, Lumia, Pellor, Rothana, Scorch_
+_Calistto, Hanzho, Kidun, Litoses, Lumia, Pellor, Rothana, Scorch, Girtymcgee_
 
 ### Flasks
-**Titans:** Litoses, Lumia, Calistto, Kidun <br />
-**Supreme Power:** Litoses, Rothana, Scorch, Lumia <br />
-**Distilled Wisdom:** Litoses, Rothana, Lumia, Pellor, Calistto <br />
-**Chromatic Resistance:** Litoses, Rothana, Lumia
+**Titans:** Litoses, Lumia, Calistto, Kidun, Girthymcgee <br />
+**Supreme Power:** Litoses, Rothana, Scorch, Lumia, Girthymcgee <br />
+**Distilled Wisdom:** Litoses, Rothana, Lumia, Pellor, Calistto, Girthymcgee <br />
+**Chromatic Resistance:** Litoses, Rothana, Lumia, Girthymcgee
 
 ### Elixirs
-**Greater Arcane:** Litoses, Rothana, Lumia, Pellor, Calistto, Kidun <br />
-**Mageblood:** Rothana, Litoses, Lumia, Calistto, Kidun <br />
-**Trollblood:** Rothana, Litoses, Lumia, Calistto, Kidun <br />
-**Mongoose:** Litoses, Rothana, Scorch, Hanzho, Lumia, Pellor, Calistto, Kidun <br />
-**Giants:** Pellor, Kidun, Lumia <br />
-**Poison Resistance:** Rothana, Litoses, Lumia, Calistto, Kidun <br />
-**Greater Frost Power:** Calistto, Lumia <br />
-**Greater Fire Power:** Calistto, Kidun, Lumia <br />
-**Shadow Power:** Rothana, Calistto, Kidun, Lumia 
+**Greater Arcane:** Litoses, Rothana, Lumia, Pellor, Calistto, Kidun, Girthymcgee <br />
+**Mageblood:** Rothana, Litoses, Lumia, Calistto, Kidun, Girthymcgee <br />
+**Trollblood:** Rothana, Litoses, Lumia, Calistto, Kidun, Girthymcgee <br />
+**Mongoose:** Litoses, Rothana, Scorch, Hanzho, Lumia, Pellor, Calistto, Kidun, Girthymcgee <br />
+**Giants:** Pellor, Kidun, Lumia, Girthymcgee <br />
+**Poison Resistance:** Rothana, Litoses, Lumia, Calistto, Kidun, Girthymcgee <br />
+**Greater Frost Power:** Calistto, Lumia, Girthymcgee <br />
+**Greater Fire Power:** Calistto, Kidun, Lumia, Girthymcgee <br />
+**Shadow Power:** Rothana, Calistto, Kidun, Lumia, Girthymcgee 
 
 ### Potions
-**Greater Fire Protection:** Litoses, Rothana, Lumia, Calistto, Kidun <br />
-**Greater Nature Protection:** Rothana, Litoses, Lumia, Calistto, Kidun <br />
-**Greater Frost Protection:** Litoses, Rothana, Lumia, Calistto, Kidun <br />
-**Greater Shadow Protection:** Rothana, Calistto, Kidun, Lumia <br />
-**Greater Stoneshield:** Rothana, Litoses, Lumia, Calistto, Kidun <br />
-**Limited Invulnerability:** Rothana, Pellor, Kidun, Lumia <br />
-**Major Health:** Rothana, Litoses, Lumia, Calistto, Kidun <br />
-**Major Mana:** Rothana, Litoses, Lumia, Calistto, Kidun <br />
-**Mighty Rage:** Pellor, Kidun, Lumia <br />
-**Brute Force:** Lumia, Calistto <br />
-**Restorative:** Rothana, Lumia, Calistto, Kidun
+**Greater Fire Protection:** Litoses, Rothana, Lumia, Calistto, Kidun, Girthymcgee <br />
+**Greater Nature Protection:** Rothana, Litoses, Lumia, Calistto, Kidun, Girthymcgee <br />
+**Greater Frost Protection:** Litoses, Rothana, Lumia, Calistto, Kidun, Girthymcgee <br />
+**Greater Shadow Protection:** Rothana, Calistto, Kidun, Lumia, Girthymcgee <br />
+**Greater Stoneshield:** Rothana, Litoses, Lumia, Calistto, Kidun, Girthymcgee <br />
+**Limited Invulnerability:** Rothana, Pellor, Kidun, Lumia, Girthymcgee <br />
+**Major Health:** Rothana, Litoses, Lumia, Calistto, Kidun, Girthymcgee <br />
+**Major Mana:** Rothana, Litoses, Lumia, Calistto, Kidun, Girthymcgee <br />
+**Mighty Rage:** Pellor, Kidun, Lumia, Girthymcgee <br />
+**Brute Force:** Lumia, Calistto, Girthymcgee <br />
+**Restorative:** Rothana, Lumia, Calistto, Kidun, Girthymcgee
 
 ### Miscellaneous
-**Gurubashi Mojo Madness:** Litoses, Rothana, Lumia, Calistto, Kidun <br />
-**Frost Oil:** Rothana, Lumia, Calistto, Kidun <br />
-**Shadow Oil:** Calistto, Rothana, Kidun, Lumia <br />
-**Goblin Rocket Fuel:** Rothana, Calistto, Kidun, Lumia
+**Gurubashi Mojo Madness:** Litoses, Rothana, Lumia, Calistto, Kidun, Girthymcgee <br />
+**Frost Oil:** Rothana, Lumia, Calistto, Kidun, Girthymcgee <br />
+**Shadow Oil:** Calistto, Rothana, Kidun, Lumia, Girthymcgee <br />
+**Goblin Rocket Fuel:** Rothana, Calistto, Kidun, Lumia, Girthymcgee
 
 ## Blacksmiths
 _Catlordx, Damebesitos_
@@ -134,11 +134,11 @@ _Gnomish: Kanute
 Goblin: Rothana, Uncensored_
 
 **Biznicks 247x128 Accurascope (3% ranged hit):** Kanute, Rothana <br />
-**Sniper Scope (+7 dmg):** Kanute, Rothana <br />
-**Thorium Shells:** Kanute, Rothana <br />
+**Sniper Scope (+7 dmg):** Kanute, Rothana, Deitz <br />
+**Thorium Shells:** Kanute, Rothana, Deitz <br />
 **Force Reactive Disk:** Kanute <br />
 **Hyper-Radiant Flame Reflector:** Kanute <br />
-**Ultra-Flash Shadow Reflector:** Kanute <br />
+**Ultra-Flash Shadow Reflector:** Kanute, Deitz <br />
 **Gyrofreeze Ice Reflector:** Kanute <br />
 **Arcanite Dragonling:** Kanute <br />
 **Goblin Sapper Charges:** Rothana, Uncensored 
@@ -146,32 +146,32 @@ Goblin: Rothana, Uncensored_
 ## Leatherworkers
 _Hatredcopter, Reohaiko_
 
-**Devilsaur Legs:** Reohaiko, Hatredcopter <br />
-**Devilsaur Gloves:** Reohaiko, Hatredcopter <br />
+**Devilsaur Legs:** Reohaiko, Hatredcopter, Lukster <br />
+**Devilsaur Gloves:** Reohaiko, Hatredcopter, Lukster <br />
 
 ### Nature Resist
-**Sandstalker Bracers:** Hatredcopter <br />
-**Sandstalker Gauntlets:** Hatredcopter <br />
-**Sandstalker Breastplate:**
+**Sandstalker Bracers:** Hatredcopter, Lukster <br />
+**Sandstalker Gauntlets:** Hatredcopter, Lukster <br />
+**Sandstalker Breastplate:** Lukster
 
 ### Frost Resist
-**Frostsaber Tunic:** <br />
-**Frostsaber Leggings:** <br />
-**Frostsaber Gloves:** <br />
-**Frostsaber Boots:** <br />
+**Frostsaber Tunic:** Lukster <br />
+**Frostsaber Leggings:** Lukster <br />
+**Frostsaber Gloves:** Lukster <br />
+**Frostsaber Boots:** Lukster <br />
 
 ## Tailors
-_Alister, Deitz, Lisapants, Phey_
+_Alister, Lisapants, Phey_
 
 **Flarecore Set:** Phey <br />
 **Bloodvine Set:** Phey, Alister <br />
-**Felcloth Set:** Deitz, Phey, Alister <br />
+**Felcloth Set:** Phey, Alister <br />
 **Frostweave Set:** Phey, Alister <br />
 **Stygian Set:** Phey, Alister
 
 ### Bags
-**Core Felcloth Bag:** Deitz, Phey <br />
+**Core Felcloth Bag:** Phey <br />
 **Bottomless Bag:**  <br />
-**Mooncloth Bag:** Deitz, Rothana, Lisapants, Phey, Alister <br />
+**Mooncloth Bag:** Rothana, Lisapants, Phey, Alister <br />
 **Satchel of Cenarius:**  <br />
 **Big Bag of Enchantment:** Alister
