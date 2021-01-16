@@ -27,7 +27,7 @@ We may be interested in picking up exceptional players regardless of whether we 
 
 **Class Openings (edited on: 7 Jan '21):** <br />
 **Druid** [Closed] <br />
-**Hunter** [Closed] <br />
+**Hunter** [Open] <br />
 **Mage** [Closed] <br />
 **Paladin** [Closed] <br />
 **Priest** [Closed] <br />
