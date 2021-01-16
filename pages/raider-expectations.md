@@ -31,3 +31,4 @@ Not too much is required – we don’t want to dictate what your UI should look
 #### Recommended Mods
 - [Guild Roster Manager:](https://www.curseforge.com/wow/addons/guild-roster-manager) This tells you who people's mains are and lets us sync up our guild blacklist so you know who's trouble.
 - [Nova World Buffs:](https://www.curseforge.com/wow/addons/nova-world-buffs) You can set this mod to silence all the guild chat spam that comes from other people with this mod. It's very useful for letting you know when you can get another Darkmoon Faire buff, and really I wouldn't want to try to track down a Songflower without it.
+- [WeakAuras:](https://www.curseforge.com/wow/addons/weakauras-2) A powerful and flexible framework that allows the display of highly customizable graphics on World of Warcraft's user interface to indicate buffs, debuffs, and other relevant information. See [Wago.io](https://wago.io/) for all of the custom content.
