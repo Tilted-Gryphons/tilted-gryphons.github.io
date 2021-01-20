@@ -24,4 +24,6 @@ Deitz and Rothana handle everything to do with alts.
 • The loot hierarchy rules are as follows. Please do not abuse this system by scooping up every OS item you can get your hands on just because you can.  <br />
 • Loot is *always* distributed at the discretion of the Loot Council. <br />
 
-Main Raider MS > OS      **>**      Raider Alts MS > OS      **>**      Friends and Family MS > OS
+**1.** Main Raider MS > OS <br />
+**2.** Raider Alts MS > OS <br />
+**3.** Friends and Family MS > OS
