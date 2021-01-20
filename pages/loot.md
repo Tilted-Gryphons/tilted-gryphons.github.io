@@ -30,5 +30,7 @@ We aim to have a system that fairly distributes loot as quickly and efficiently 
 ### Loot Priority by Rank
 Loot priority will generally be decided by the following list. The lines higher up have higher priority, and anything listed on a line has equal priority and would result in gear being rolled on. Find out more about [alts](/pages/alts/).
 
-Main Raider MS > OS      **>**      Raider Alts MS > OS      **>**      Friends and Family MS > OS
+**1.** Main Raider MS > OS <br />
+**2.** Raider Alts MS > OS <br />
+**3.** Friends and Family MS > OS
    
