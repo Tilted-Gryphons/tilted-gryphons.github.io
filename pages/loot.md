@@ -30,10 +30,5 @@ We aim to have a system that fairly distributes loot as quickly and efficiently 
 ### Loot Priority by Rank
 Loot priority will generally be decided by the following list. The lines higher up have higher priority, and anything listed on a line has equal priority and would result in gear being rolled on. Find out more about [alts](/pages/alts/).
 
-**A.** Core Raider mainspec / Core Raider MS minor upgrade <br />
-**B.** Core Raider offspec specific - meaning tanking gear, resist gear, tier, etc  <br />
-**C.** Core Raider PvP (if you PvP) <br />
-**D.** Trial Raider mainspec, Core Raider offspec, Core Raider Alt mainspec, Sub/Casual mainspec, Friends-n-Family mainspec <br />
-**E.** PvP (if you PvP) for: Trial Raider, Core Raider Alt, Sub/Casual, Friends-n-Family <br />
-**F.** Offspec for: Trial Raider, Core Raider Alt, Sub/Casual, Friends-n-Family <br />
+Main Raider MS > OS      **>**      Raider Alts MS > OS      **>**      Friends and Family MS > OS
    
