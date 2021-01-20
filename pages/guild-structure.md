@@ -33,4 +33,5 @@ Officers are around to talk to! You are welcome to reach out to any officer that
 • Ask in your class channel on Discord for questions about loot, your class spells, rotation, stats, gear, and role. <br />
 • HR issues - try Kanute, Hatred, or Roth. <br />
 • Website content - Roth, Hatred, or Deitz. <br />
-• Discord content - Roth, Hatred, or Kanute.
+• Discord content - Roth, Hatred, or Kanute. <br />
+• Alts - Deitz or Roth.
