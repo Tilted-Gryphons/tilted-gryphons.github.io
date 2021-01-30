@@ -127,7 +127,7 @@ dark iron gear?
 **Radiant Belt:** Andewin <br />
 **Radiant Leggings:** Catlordx, Andewin <br />
 **Radiant Boots:**  Catlordx, Andewin
-
+**Icebane Set:** Catlordx, Andewin
 
 ## Engineers
 _Gnomish: Kanute
@@ -159,15 +159,22 @@ _Hatredcopter, Reohaiko_
 **Frostsaber Leggings:** Lukster <br />
 **Frostsaber Gloves:** Lukster <br />
 **Frostsaber Boots:** Lukster <br />
+**Polar Set:** Lukster <br />
+**Icy Scale Set:** Lukster
 
 ## Tailors
-_Alister, Lisapants, Phey, Milkmana_
+_Alister, Lisapants, Phey, Milkmana, Markus_
 
 **Flarecore Set:** Phey, Milkmana <br />
 **Bloodvine Set:** Phey, Alister, Milkmana <br />
 **Felcloth Set:** Phey, Alister, Milkmana <br />
 **Frostweave Set:** Phey, Alister, Milkmana <br />
 **Stygian Set:** Phey, Alister, Milkmana
+
+### Frost Resist
+**Brightcloth Set:** Milkmana, Markus <br />
+**Glacial Set:** Milkmana, Markus <br />
+**Glacial Cloak:** Milkmana, Markus
 
 ### Bags
 **Core Felcloth Bag:** Phey, Milkmana <br />
