@@ -126,12 +126,12 @@ dark iron gear?
 **Radiant Gloves:** Catlordx, Andewin <br />
 **Radiant Belt:** Andewin <br />
 **Radiant Leggings:** Catlordx, Andewin <br />
-**Radiant Boots:**  Catlordx, Andewin
+**Radiant Boots:**  Catlordx, Andewin <br />
 **Icebane Set:** Catlordx, Andewin
 
 ## Engineers
-_Gnomish: Kanute
-Goblin: Rothana, Uncensored_
+_Gnomish: Kanute, Deitz_ <br />
+_Goblin: Rothana, Uncensored_
 
 **Biznicks 247x128 Accurascope (3% ranged hit):** Kanute, Rothana <br />
 **Sniper Scope (+7 dmg):** Kanute, Rothana, Deitz <br />
@@ -144,7 +144,7 @@ Goblin: Rothana, Uncensored_
 **Goblin Sapper Charges:** Rothana, Uncensored 
 
 ## Leatherworkers
-_Hatredcopter, Reohaiko_
+_Hatredcopter, Reohaiko, Lukster_
 
 **Devilsaur Legs:** Reohaiko, Hatredcopter, Lukster <br />
 **Devilsaur Gloves:** Reohaiko, Hatredcopter, Lukster <br />
