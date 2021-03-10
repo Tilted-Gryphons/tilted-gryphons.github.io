@@ -26,10 +26,10 @@ If you'd like to join as a raider, there are a great many more requirements. Fir
 We may be interested in picking up exceptional players regardless of whether we are actively recruiting a class, so if you're really keen to join our guild specifically, feel free to try your luck!
 
 **Class Openings (edited on: 7 Jan '21):** <br />
-**Druid** [Closed] <br />
+**Druid** Healer [Open] <br />
 **Hunter** [Open] <br />
 **Mage** [Closed] <br />
-**Paladin** [Closed] <br />
+**Paladin** Healer [Open] <br />
 **Priest** [Closed] <br />
 **Rogue** [Closed] <br />
 **Warlock** [Closed] <br />
