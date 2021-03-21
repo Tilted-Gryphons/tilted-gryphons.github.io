@@ -25,10 +25,10 @@ Tilted Gryphons is a PvE-focused semi-core raiding guild which looks for social 
 If you'd like to join as a raider, there are a great many more requirements. First and foremost, do we have an opening for your class? <br />
 We may be interested in picking up exceptional players regardless of whether we are actively recruiting a class, so if you're really keen to join our guild specifically, feel free to try your luck!
 
-**Class Openings (edited on: 7 Jan '21):** <br />
-**Druid** Healer [Open] <br />
-**Hunter** [Open] <br />
-**Mage** [Closed] <br />
+**Class Openings (edited on: 20 Mar '21):** <br />
+**Druid** [Closed] <br />
+**Hunter** [Closed] <br />
+**Mage** [Open] <br />
 **Paladin** Healer [Open] <br />
 **Priest** [Closed] <br />
 **Rogue** [Closed] <br />
@@ -38,8 +38,8 @@ We may be interested in picking up exceptional players regardless of whether we 
 **Raid Times:** <br />
 9pm-1am server time (Eastern, GMT-5) <br />
 Tuesdays - Naxxramas - counted in attendance.<br />
-Wednesdays - AQ40, BWL - counted in attendance. <br />
-Saturdays - ZG, Binding Run - attendance encouraged, but optional.
+Wednesdays - AQ40 - counted in attendance. <br />
+Thursdays - BWL GDKP - optional.
 
 
 **Current Progression:** <br />
