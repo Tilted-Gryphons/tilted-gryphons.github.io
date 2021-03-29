@@ -43,7 +43,7 @@ Thursdays - BWL GDKP - optional.
 
 
 **Current Progression:** <br />
-Naxx 15/15 <br />
+Naxx 15/15 - 1st guild on the server to down Sapph with no WB's (and with only 39 people) and that was our first kill. <br /> 
 AQ40 9/9 - one-shot C'thun the day the gates opened! <br />
 AQ20 6/6 <br />
 BWL 8/8 <br />
@@ -74,4 +74,4 @@ Good job if you've read this far! Please go to our [Discord](https://discord.gg/
 1. In the *#read-me-first* channel type: ?accept <br />
 2. Then in the *#new-recruits* channel please post your in-game name, current level, class, and desired end-game spec. <br />
 3. Wait for an officer to get in touch with you. This may take a day. <br />
-Once you're in the guild in-game, you will then receive your rank in Discord and unlock all of the remaining channels! If you have any questions please feel free to DM an officer.
+Once you're in the guild in-game, you will then receive your rank in Discord and unlock all of the remaining channels! If you have any questions please feel free to DM an [officer](/pages/guild-structure/).
