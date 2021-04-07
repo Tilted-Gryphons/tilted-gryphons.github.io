@@ -38,7 +38,7 @@ We may be interested in picking up exceptional players regardless of whether we 
 **Raid Times:** <br />
 9pm-1am server time (Eastern, GMT-5) <br />
 Tuesdays - Naxxramas - counted in attendance.<br />
-Wednesdays - AQ40 - counted in attendance. <br />
+Wednesdays - AQ40 GDKP - optional. <br />
 Thursdays - BWL GDKP - optional.
 
 
