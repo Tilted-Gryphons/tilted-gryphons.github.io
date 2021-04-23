@@ -36,7 +36,7 @@ We may be interested in picking up exceptional players regardless of whether we 
 **Warrior** [Closed] <br />
 
 **Raid Times:** <br />
-9pm-1am server time (Eastern, GMT-5) <br />
+9pm-1am server time (Eastern, GMT-5) however we usually clear Naxx in about 2 hours. <br />
 Tuesdays - Naxxramas - counted in attendance.<br />
 Wednesdays - AQ40 GDKP - optional. <br />
 Thursdays - BWL GDKP - optional.
@@ -72,6 +72,6 @@ After an interview and some vetting, the officers will decide whether or not to 
 ### How to Join
 If you've read this far bravo! Please go to our [Discord](https://discord.gg/SFnNfHv) and follow these directions: <br />
 1. In the *#read-me-first* channel type: ?accept <br />
-2. Then in the *#new-recruits* channel please post your in-game name, current level, class, and desired end-game spec. <br />
+2. Then in the *#new-recruits* channel please post your character name, class, spec, and logs. <br />
 3. Wait for an officer to get in touch with you. This may take a day. <br />
 Once you're in the guild in-game, you will then receive your rank in Discord and unlock all of the remaining channels! If you have any questions please feel free to DM an [officer](/pages/guild-structure/).
