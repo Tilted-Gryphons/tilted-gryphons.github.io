@@ -25,11 +25,11 @@ Tilted Gryphons is a PvE-focused semi-core raiding guild which looks for social 
 If you'd like to join as a raider, there are a great many more requirements. First and foremost, do we have an opening for your class? <br />
 We may be interested in picking up exceptional players regardless of whether we are actively recruiting a class, so if you're really keen to join our guild specifically, feel free to try your luck!
 
-**Class Openings (edited on: 7 Apr '21):** <br />
+**Class Openings (edited on: 23 Apr '21):** <br />
 **Druid** [Closed] <br />
 **Hunter** [Closed] <br />
-**Mage** [Closed] <br />
-**Paladin** [Closed] <br />
+**Mage** [Open] <br />
+**Paladin** Healer [Open] <br />
 **Priest** Healer [Open] <br />
 **Rogue** [Closed] <br />
 **Warlock** [Closed] <br />
@@ -67,10 +67,10 @@ You will have posted in the #new-recruits Discord channel. We will see this post
 
 We _will_ reach out to your previous guild and ask them about you. However we aren't scary, we're just trying to protect our guild and recruit people who share our attitude towards raiding and who seem like decent, kind people.
 
-After an interview and some vetting, the officers will decide whether or not to accept you as a new recruit. As a War Fledgeling you'll need to make a good impression on us. We are looking for skill at playing your class, your ability to listen, to work well with the other people of your class, your general attitude, and how well you mesh with our guild culture. The trial period lasts a minimum of three weeks.
+After an interview and some vetting, the officers will decide whether or not to accept you as a new recruit. As a War Fledgeling you'll need to make a good impression on us. We are looking for skill at playing your class, your ability to listen, to work well with the other people of your class, your general attitude, and how well you mesh with our guild culture. This also affords you the time to assess us and whether you like our guild before making a more formal commitment. The trial period lasts a minimum of three weeks.
 
 ### How to Join
-Good job if you've read this far! Please go to our [Discord](https://discord.gg/SFnNfHv) and follow these directions: <br />
+If you've read this far bravo! Please go to our [Discord](https://discord.gg/SFnNfHv) and follow these directions: <br />
 1. In the *#read-me-first* channel type: ?accept <br />
 2. Then in the *#new-recruits* channel please post your in-game name, current level, class, and desired end-game spec. <br />
 3. Wait for an officer to get in touch with you. This may take a day. <br />
