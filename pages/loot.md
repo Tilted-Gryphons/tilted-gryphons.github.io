@@ -3,11 +3,11 @@ title: Loot
 classes: wide
 ---
 ### Loot System
-We use a **loot council** which is comprised of the officers and two randomly selected raid members each week. These raid members are temporarily promoted to Flightmaster so that they can participate in the loot council via the in-game guild officer chat channel.<br />
-Officers usually have a firm idea of who is currently most eligible for an item based on attendance, attitude, performance, and effort.
+We use a **loot council** which is comprised of the officers and two randomly selected raid members each week. These raid members are temporarily promoted so that they can participate in the loot council via the in-game guild officer chat channel.<br />
+Officers usually have a firm idea of who is currently most eligible for an item based on different considerations - and we try to keep this process as transparent as we can.
 
 ### Guild Loot Priority
-The guild's [loot priority outline](https://docs.google.com/spreadsheets/d/1tI7YoZtPB2ySKbB14MiN791i9h5P0O7Zy2X5Badd0TY/edit#gid=48350099) is always available for you to review. This document lays out which classes have priority on specific pieces of gear and is determined by the officers. Classes or specs who don't have another good option, who will use a piece of gear for the longest, or who will get the most benefit over other classes, will tend to get prio.
+The guild's [loot priority outline](https://docs.google.com/spreadsheets/d/1tI7YoZtPB2ySKbB14MiN791i9h5P0O7Zy2X5Badd0TY/edit#gid=48350099) is always available for you to review. This document lays out which classes have priority on specific pieces of gear and is determined by the officers in consultation with knowledgeable players. Classes or specs who don't have another good option, who will use a piece of gear for the longest, or who will get the most benefit over other classes, will tend to get prio.
 
 ### Loot Council Guidelines
 Our loot is distributed according to our [loot priority outline](https://docs.google.com/spreadsheets/d/1tI7YoZtPB2ySKbB14MiN791i9h5P0O7Zy2X5Badd0TY/edit#gid=48350099).
