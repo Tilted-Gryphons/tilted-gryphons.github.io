@@ -25,14 +25,6 @@ sidemenu:
         url: /pages/aq40-strats/
       - title: "C'Thun Melee Positioning"
         url: /pages/cthun-melee-positioning/
- # - title: "Private Server"
- #   children:
- #     - title: "Getting Started"
- #       url: /pages/pserver/
- #     - title: "Addons and Macros"
- #       url: /pages/pserver-addons/
- #     - title: "GM Commands"
- #       url: /pages/pserver-gm/
   - title: "Links"
     children:
       - title: "Attendance"
