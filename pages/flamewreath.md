@@ -1,5 +1,5 @@
 ---
-title: Loot
+title: Secret Strategies
 classes: wide
 ---
 ### Burning Crusade Raid Strategies
