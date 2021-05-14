@@ -21,6 +21,8 @@ sidemenu:
         url: /pages/crafters/   
   - title: "Raid Strategy"
     children:
+      - title: "TBC Strategies"
+        url: /pages/flamewreath/
       - title: "AQ40 Notes"
         url: /pages/aq40-strats/
       - title: "C'Thun Melee Positioning"
