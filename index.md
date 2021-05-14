@@ -8,7 +8,7 @@ sidebar:
   nav: "sidemenu"
 ---
 ### Beyond the Portal
-![Vacation Time](/assets/images/vacat.png "Who wasn't prepared exactly?")
+![Vacation Time](/assets/images/vacat.jpg "Who wasn't prepared exactly?")
 
 We're off to continue our grand adventures beyond the dark portal! With a new expansion comes new opportunities and our recruitment is in full swing - check the sidebar or our Discord for details.
 
