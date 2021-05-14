@@ -23,10 +23,6 @@ sidemenu:
     children:
       - title: "TBC Strategies"
         url: /pages/flamewreath/
-      - title: "AQ40 Notes"
-        url: /pages/aq40-strats/
-      - title: "C'Thun Melee Positioning"
-        url: /pages/cthun-melee-positioning/
   - title: "Links"
     children:
       - title: "Attendance"
