@@ -16,6 +16,9 @@ Tilted Gryphons is a PvE-focused semi-core raiding guild which looks for social 
 • Clear all content as efficiently as we reasonably can. <br />
 • Uphold a reputation with the people we play with to keep Tilted Gryphons a name that's synonymous with a positive community.
 
+**Guiding Philosophy** <br />
+• People > Parses > Purples. We first and foremost want to have fun, and take into consideration someone's social fitness and ability to jive with our atmosphere. If we don't have fun raiding with someone, it won't work out. Second to that, we look at performance metrics as objectively as we can, and are a group of self-improvers. There's always room to grow, and we like people who tend to want to push the limits. Our very last consideration is the purples - the bounty of the raid is the friends you make along the way, and the shinies you get as a result shouldn't be at the forefront of our mind every week.
+
 **Member Conduct:** <br />
 • Emulate the Gryphon. Be friendly to others, don't be a dick, contribute to the guild and server community in a way that would make everyone proud to be a part of it, and have a drive to take action when called upon. <br />
 • For our raiders, the willingness to improve - demonstrate an ability to better yourself and the raid! Sometimes this might require respecs and other times a role just might not fit our team. We try our best here. <br />
@@ -25,23 +28,21 @@ Tilted Gryphons is a PvE-focused semi-core raiding guild which looks for social 
 If you'd like to join as a raider, there are a great many more requirements. First and foremost, do we have an opening for your class? <br />
 We may be interested in picking up exceptional players regardless of whether we are actively recruiting a class, so if you're really keen to join our guild specifically, feel free to try your luck!
 
-**Class Openings (edited on: 30 Apr '21):** <br />
-**Druid** [Closed] <br />
-**Hunter** [Closed] <br />
-**Mage** [Open] <br />
-**Paladin** Healer [Open] for exceptional apps <br />
-**Priest** [Closed] <br />
-**Rogue** [Closed] <br />
-**Warlock** [Closed] <br />
-**Warrior** [Closed] <br />
+**Class Openings (edited on: 14 May '21):** <br />
+**Druid** [Open] for tank and boomkin<br />
+**Hunter** [Open] <br />
+**Mage** [Closed] <br />
+**Paladin** [Open]<br />
+**Priest** [Open] <br />
+**Rogue** [Open] <br />
+**Warlock** [Open] <br />
+**Warrior** [Open] <br />
 
 **Raid Times:** <br />
-9pm-1am server time (Eastern, GMT-5) however we usually clear Naxx in about 2 hours. <br />
-Tuesdays - Naxxramas - counted in attendance.<br />
-Wednesdays - AQ40 GDKP - optional. <br />
-Thursdays - BWL GDKP - optional.
-
-Our official raid schedule has always been 9pm-1am server Tuesday/Wednesday/Saturday, and it will likely go back to this with the new content in TBC.
+9pm-1am server time (Eastern, GMT-5) however raids rarely go the full time. <br />
+Tuesdays - Main raid night, content pushing.<br />
+Wednesdays - Overflow for anything we didn't finish tuesday, or off raids. <br />
+Thursdays - GDKPs / Optional raids / Very extra night.
 
 **Current Progression:** <br />
 Naxx 15/15 - 1st guild on the server to down Sapph with no WB's (and with only 39 people) and that was our first kill. <br /> 
@@ -52,7 +53,7 @@ MC 10/10 <br />
 ZG 10/10
 
 ### Requirements for a Core Raid Spot
-• Be attuned to Ony, MC, BWL, and Naxx. <br />
+• Have attunements. <br />
 • Maintain reliable attendance of at least 75%. <br />
 • Sign up on Discord with an appropriate reaction every raid. <br />
 • Have a headset and use a push-to-talk button. <br />
@@ -64,7 +65,7 @@ ZG 10/10
 • Review our definition of what it means for us to be a [semicore](/pages/semicore/) raiding guild.
 
 ### Recruitment Process
-You will have posted in the #new-recruits Discord channel. We will see this post and an officer will respond to you. If we want to recruit you, then you will need to complete an interview with 2-3 officers via voice chat.
+You will have posted in the #new-recruits Discord channel. We will see this post and an officer will respond to you. If we want to recruit you, then you will need to complete an interview with a few others in voice chat. Don't feel anxious about it, we just want to get to know you.
 
 We _will_ reach out to your previous guild and ask them about you. However we aren't scary, we're just trying to protect our guild and recruit people who share our attitude towards raiding and who seem like decent, kind people.
 
