@@ -7,6 +7,11 @@ classes:
 sidebar:
   nav: "sidemenu"
 ---
+### Beyond the Portal
+![Vacation Time](/assets/images/vacat.png "Who wasn't prepared exactly?")
+
+We're off to continue our grand adventures beyond the dark portal! With a new expansion comes new opportunities and our recruitment is in full swing - check the sidebar or our Discord for details.
+
 ### Tilted Gryphons Kill the Last Two Bosses of the Game! 21/Dec/2020
 ![Tilted Gryphons Kill Kel'Thuzad in Naxxramas](/assets/images/tg_first_kt_kill.png "TG First KT kill")
 ![Tilted Gryphons Kill Sapphiron in Naxx](/assets/images/tg_first_sapph_kill.png "TG First Sapph kill")
