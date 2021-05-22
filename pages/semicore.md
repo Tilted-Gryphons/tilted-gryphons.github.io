@@ -5,7 +5,7 @@ classes: wide
 
 TLDR; Hardcore guilds will do anything and everything to squeeze performance and perfection. Casual guilds will make heavy schedule and performance sacrifices to keep everyone happy. We try to play with people we like and objectively look at metrics best we can to be better the next lockout.
 
-### Semi-Hardcore and AQ preparation
+### Semi-Hardcore - What the heck does it mean?
 
 Everyone who was recruited into this guild was given the same one-liner (or some slight variation of it): We are a semi-hardcore guild that raids Tues/Weds/Thur at 9 P.M. server. Everyone seems to have a different defitnition of semi-core, so here's ours.
 
