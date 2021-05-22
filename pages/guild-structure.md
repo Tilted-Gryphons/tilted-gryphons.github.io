@@ -14,12 +14,13 @@ In general, everyone's on pretty level playing field. Officers are players who h
 ### Guild Ranks
 **Gryphon Master:** Guild Master <br />
 **Flightmaster:** Officers <br />
-**Looty Hooty Hoo:** Officer alts and random Loot Council members <br />
+**Deputy Duck:** Officer alts and random Loot Council members <br />
 **War Gryphon:** Core Raiders <br />
 **War Fledgeling:** Trial Raiders <br />
-**Gryphon:** Casuals, Socials, Friends, Family, Substitute Raiders, Core Raider Alts <br />
-**Crusty Feather:** Temporary rank - you did something stupid. <br />
-**Baby Gryphon:** Newly invited to the guild.
+**Gryphon:** Casuals, Socials, Friends, Family, Substitute Raiders, etc.<br />
+**Crusty Feather:** Temporary rank - you did something really dumb. Go to your corner. <br />
+**Baby Gryphon:** Alts.
+**Stupid Bird:** Newly invited.
 
 ### Which Officer Should I Contact?
 Officers are around to talk to! You are welcome to reach out to any officer that you feel most appropriate or comfortable with about other issues you may have. Keep us informed, be respectful, and together lets maintain a supportive and positive guild culture! Of course if you only feel okay about speaking up if you can be anonymous, there is the [suggestion box](https://forms.gle/DWDiP5uZ4MqrgdZe7)!
