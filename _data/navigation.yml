@@ -13,6 +13,8 @@ sidemenu:
         url: /pages/raider-expectations/
       - title: "Guild Structure"
         url: /pages/guild-structure/
+      - title: "Semi-Core Definition"
+        url: /pages/semicore/        
       - title: "Loot System"
         url: /pages/loot/
       - title: "Alts"
