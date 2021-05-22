@@ -3,16 +3,16 @@ title: Semicore Defined for Us
 classes: wide
 ---
 
-TLDR; Hardcore guilds require a large time investment outside of raid, Casual guilds require a large timesink in raid. We require very minimal time commitment in both areas achieved by a small amount of preparation. Some of that preparation is on a pserver. If you don’t have time for pserver, you for sure do not have time for actual AQ progression.
+TLDR; Hardcore guilds will do anything and everything to squeeze performance and perfection. Casual guilds will make heavy schedule and performance sacrifices to keep everyone happy. We try to play with people we like and objectively look at metrics best we can to be better the next lockout.
 
 ### Semi-Hardcore and AQ preparation
 
-Everyone who was recruited into this guild was given the same one-liner (or some slight variation of it): We are a semi-hardcore guild that raids Tues/Weds/Sat at 9 P.M. server. I am going to define what semi-hardcore means to this guild in loose terms, along with our raider demographic from what I have seen. This is overdue but I think the timing will work.
+Everyone who was recruited into this guild was given the same one-liner (or some slight variation of it): We are a semi-hardcore guild that raids Tues/Weds/Thur at 9 P.M. server. Everyone seems to have a different defitnition of semi-core, so here's ours.
 
 When someone says “semi-hardcore” I instantly associate that with being between casual and hardcore. Unfortunately, a word that is in between two undefined terms does not mean much. Let’s define these terms before moving on (obviously extreme examples):
 
 **Casual:** 
-No real raid strategy prep. The raid leader will outline fights as they are done.
+No real raid strategy prep. The raid leader will outline fights as they are done, mid-raid.
 World Buffs not required.
 Cheap consumables and enchants are the norm.
 No PTR or pserver practice.
@@ -29,53 +29,41 @@ ALL world buffs are required.
 The best, most premium consumables are required.
 PTR and pserver raid practice required.
 Multiple raid teams, raiders fight for spots on the top team.
+Split raids are the norm to push metrics.
 Attendance basically needs to be 95%.
-Poor performance will lose you your spot.
+Poor performance will lose you your spot quickly.
 Most raid clears are for speed, anything over an hour probably unacceptable.
 Camps all world boss spawns.
 Likely sub 25 year-olds and no-lifers.
 
-Now, we can overlap these circles in many different ways which is why we need to define what semi-hardcore means in Tilted Gryphons <TG>. I personally am 35 with a full-time job, my own company, a family, a house, much responsibility. From talking with the friends I have made here in <TG> a lot of people are in a similar situation; alright, maybe not so old. Most of us played WoW 15 years ago and a Lot of us made it a good way into Naxx (one officer cleared it but is too modest for me to out them here). When I came back to Classic I knew I did not want to be a filthy casual but I certainly did not have the time to be hardcore, either. I ended up in <TG> with some like-minded people and it’s been a real hoot! 
+Now, we can overlap these circles in many different ways which is why we need to define what semi-hardcore means in Tilted Gryphons <TG>. Most of us played WoW 15 years ago and a Lot of us made it a good way into Naxx (one officer cleared it but is too modest for me to out them here). When I came back to Classic I knew I did not want to be a filthy casual but I certainly did not have the time to be hardcore, either. I ended up in <TG> with some like-minded people and it’s been a real hoot! 
   
-So, without much more ceremony here is how we would define semi-hardcore:
+So, without much more ceremony here is how we would define our brand of semi-hardcore:
 
 **Semi-Hardcore (semi-core):**
 Want people to at least watch a quick youtube that runs down fight basics.
-The only World Buffs required are Ony/ZG/DMF.
-Require ‘Good’ consumables like mongoose and giants but not Juju or BL buffs.
-Do not Require PTR practice but we do require some practice fights on pserver.
-Maintain a close-knit ~45-person team.
+Require reasonable consumeables (in TBC thats flasks, potions, food buff).
+We may schedule some PTR practice for encounters we expect to become a wall to difficulty.
+Maintain a close-knit ~28 person team.
 Maintain at least 75% attendance.
-Try to help with performance issues, but will replace poor performers.
-Raids are not speed runs but usually twice as fast as a casual run.
+Expect raiders to be okay with sitting or swapping for a benched raider once every month or so.
+Work on poor performance with people who can help - address issues, don't ignore them. We won't kick improvers, only stagnaters.
+No "Speed runs", but we objectively look at how to improve clear times every week.
 Sometimes grab world bosses with other guilds.
 People with jobs and lives outside WoW that want to see and clear content efficiently.
 Fine with raid-logging, we all have a lot going on in our lives.
 
-Even with these lax requirements, we are in the top 10% of guilds. If you thought this was a casual guild, you were mistaken; we kill shit good.
+Even with these relatively lax requirements, we are in the top 10% of guilds. If you thought this was a casual guild, you were mistaken; we kill shit good.
 
-Why did we not define these parameters before? Well, we knew MC and BWL would be bulldozed with 1.12 talents and that there would be a lot of turnover from our first MC until AQ. If you feel like this description does not describe what you are looking for or you have concerns please talk to your CL or anonymously submit a suggestion, we read them every week.
+If you feel like one of these points is in contention, talk to an officer - we're receptive.
 
+**A Note on PTR Progression**
 
-**On AQ preparation:**
+Those who know us from classic know that we set up a private server to practice AQ40 in preparation for that raid. We thought since we were doing so well, that it might pose a difficulty and we might lose some of the fairweather raiders that are used to easy clears and no wipes. In truth, an ounce of preparation is worth a pound of cure - a lot of a raid fight is down to simple execution, and all the gear in the world doesn't make up for a lack of confidence. As a result, we may ask that raiders show up for some preparation raids when a new phase is going to drop on the PTR - just so that when it drops on the retail client, we don't spend a lot of energy learning the fights from scratch.
 
-This is being prompted by some input in the suggestion box. There is some pushback to the idea of private server practice for AQ and I want to lay out the reasoning behind it. Most of us are here to clear Naxx, everything up to that point is just filler that we have done before. Experience and history have shown the greatest hurdles to clearing Naxx are going to be: turn-over, burn-out, lack of talented players, time commitments. We are trying our absolute best to minimize these issues wherever we can:
-
-We moved all main raids to one night.
-We buff and consume to clear all content in one night. Currently that is 2 hours. 
-Saturdays became optional.
-The Guild covers expensive gear and enchants.
-We encourage people to take breaks when needed.
-
-For the initiated, the thought of re-learning the C’thun fight again triggers a sort of PTSD. Not only is the fight mechanically demanding but there are many ways it can just go sideways. On top of that each wipe requires you to run back; there is no rez available as the aggro radius is so massive. The AQ instance is gigantic, each run back and buff will take nearly 30 minutes each wipe. Contrast that thought with our first night in BWL where we had people complaining and needing to log off when we were 20 minutes BEFORE the end of our allotted raid time. We saw guilds explode in the first 2 weeks that were not able to clear BWL in a timely manner. More dedicated raiders will immediately look for greener pastures. We all have jobs to wake up for so one night a week that was almost 4 hours was tough.
-
-Not only will it take multiple hours just to reach C’Thun each week for the first few months (gear gap is large) each attempt is a 30 minute situation if you do not kill him. This is where having a private server can help. We can go through the instance without even killing trash and learn fight mechanics. The fight can be reset at any time and everyone can instantly be revived and buffed for another go. I imagine it works out to be a 5:1 ratio of attempts compared to Live, maybe higher. I estimate this will save us 50 to 100 hours of in-game raiding for a very low commitment. 
-
-The main argument against always seems to be, “we do so much damage now”. Well that may be true and if it is, the pserver is 1.12 talents as well and everyone will be in BiS gear fully world buffed each attempt. If it really is that easy now I guess our time on the pserver will be pretty damn short.
-
-So, the question is: Do you want to be frustrated for weeks or do some simple preparation and happily collect loot?
+In essence: Do you want to be frustrated for weeks or do some simple preparation and happily collect loot?
 
 
 **A Note on Casual Guilds**
 
-I also wanted to remark on something I said earlier, that I did not have time in classic to commit to a hardcore guild. Well, I don’t have time to be in a casual guild, either. This must be the only game where being casual means you actually spend more time each week playing it. Let’s be honest, this guild is about as low of a time investment you could possibly have in this game at this time. I really would like to keep the fun rolling on at this level of commitment, I think most people would.
+Some people don't have the time to commit to hardcore guilds. But consider that some don't have the time to commit to casual guilds - wipes, unoptimized raid makeups, slow clear times, confusing loot distribution, lackadaisical requirements leading to social drama and infighting - some of the hallmarks of the typical casual guild experience that we strive to steer away from.
