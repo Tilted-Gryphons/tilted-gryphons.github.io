@@ -19,7 +19,7 @@ In general, everyone's on pretty level playing field. Officers are players who h
 **War Fledgeling:** Trial Raiders <br />
 **Gryphon:** Casuals, Socials, Friends, Family, Substitute Raiders, etc.<br />
 **Crusty Feather:** Temporary rank - you did something really dumb. Go to your corner. <br />
-**Baby Gryphon:** Alts.
+**Baby Gryphon:** Alts. <br />
 **Stupid Bird:** Newly invited.
 
 ### Which Officer Should I Contact?
