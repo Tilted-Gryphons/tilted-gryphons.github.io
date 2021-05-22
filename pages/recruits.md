@@ -8,7 +8,7 @@ Although we do not have a great many casual players, anyone is welcome to join t
 We want to create and maintain a friendly guild that everyone is proud to be a part of. Be conscious that you have our guild name above your head when you're out in the world. We want members who are as courteous to a random stranger as they are to their guildmates.
 
 ### Tilted Gryphons
-Tilted Gryphons is a PvE-focused semi-core raiding guild which looks for social and progression-oriented players in order to complete content in a timely manner and have a rowdy good time doing it! We don't mind if you're new to the game, or played since 2005, we have room for everyone if they're willing to be a positive member of our community.
+Tilted Gryphons is a PvE-focused semi-core raiding guild which looks for social and progression-oriented players in order to complete content in a timely manner and have a rowdy good time doing it! We don't mind if you're new to the game, or played since 2005, we have room for everyone if they're willing to be a positive member of our community. **We love to win - but don't hate to lose.** We love to overcome challenges and crest the mountain, but it's not because we want to be there first, and it's certainly not to look down on others still climbing.
 
 **Goals:** <br />
 • Be a visible name in the progression community. <br />
