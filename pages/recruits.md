@@ -29,14 +29,15 @@ If you'd like to join as a raider, there are a great many more requirements. Fir
 We may be interested in picking up exceptional players regardless of whether we are actively recruiting a class, so if you're really keen to join our guild specifically, feel free to try your luck!
 
 **Class Openings (edited on: 14 May '21):** <br />
-**Druid** [Open] for tank and boomkin<br />
-**Hunter** [Open] <br />
+**Paladin** [Open (Holy)]<br />
+**Shaman** [Open (Elemental)]<br />
+**Druid** [Closed] for tank and boomkin<br />
+**Hunter** [Closed] <br />
 **Mage** [Closed] <br />
-**Paladin** [Open]<br />
-**Priest** [Open] <br />
-**Rogue** [Open] <br />
-**Warlock** [Open] <br />
-**Warrior** [Open] <br />
+**Priest** [Closed] <br />
+**Rogue** [Closed] <br />
+**Warlock** [Closed] <br />
+**Warrior** [Closed] <br />
 
 **Raid Times:** <br />
 9pm-1am server time (Eastern, GMT-5) however raids rarely go the full time. <br />
